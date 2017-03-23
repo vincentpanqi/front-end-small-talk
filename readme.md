@@ -6,4 +6,4 @@
 
 ### 文章列表
 
-* [你怎样成为一个好的程序员呢？](blob/master/1/readme.md)
+* [你怎样成为一个好的程序员呢？](https://github.com/woai30231/front-end-small-talk/blob/master/1/readme.md)
