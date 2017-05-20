@@ -6,4 +6,4 @@
 
 ### 文章列表
 
-* [一个“及格”的程序员应该具有那些品质，你准备好了吗？](https://github.com/woai30231/front-end-small-talk/blob/master/1/readme.md)
+* [一篇从我和公司的角度思考怎么做好程序员工作的文章，希望能帮助你！](https://github.com/woai30231/front-end-small-talk/blob/master/1/readme.md)
