@@ -6,4 +6,4 @@
 
 ### 文章列表
 
-* [一篇从我和公司的角度思考怎么做好程序员工作的文章，希望能帮助你！](https://github.com/woai30231/front-end-small-talk/blob/master/1/readme.md)
+* [一篇关于我是怎么理解喜欢上并且做好前端开发工作的文档](https://github.com/woai30231/front-end-small-talk/blob/master/1/readme.md)
